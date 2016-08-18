@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "AutoLotDAL\AutoLotDAL.csproj", "{AF8F495B-7809-4ADA-9206-C99C3B99972C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotTestDrive", "AutoLotTestDrive\AutoLotTestDrive.csproj", "{C7BDD849-253C-4BAC-8F5E-927475B7B1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8F495B-7809-4ADA-9206-C99C3B99972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8F495B-7809-4ADA-9206-C99C3B99972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8F495B-7809-4ADA-9206-C99C3B99972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8F495B-7809-4ADA-9206-C99C3B99972C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BDD849-253C-4BAC-8F5E-927475B7B1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BDD849-253C-4BAC-8F5E-927475B7B1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BDD849-253C-4BAC-8F5E-927475B7B1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BDD849-253C-4BAC-8F5E-927475B7B1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
